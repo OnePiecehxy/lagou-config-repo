@@ -2,4 +2,4 @@ mysql:
   url: dev-http://localhost:3306/lagou
 
 lagou:
-  messaeg: hello lagou,100
+  message: hello lagou,100
