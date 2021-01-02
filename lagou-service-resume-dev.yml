@@ -3,3 +3,5 @@ mysql:
 
 lagou:
   message: hello lagou,300
+code.time-out：20
+code.retry-num：10
